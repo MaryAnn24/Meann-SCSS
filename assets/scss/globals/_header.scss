@@ -1,0 +1,8 @@
+@use "../util" as u;
+
+body {
+    background-color: var(--background-color);
+    font-size: 18px;
+    color: var(--text-color);
+    font-family: u.$font-courier;
+}
